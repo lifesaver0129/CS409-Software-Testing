@@ -2,7 +2,7 @@
 *.class
 
 # Log file
-*.log
+.log
 
 # BlueJ files
 *.ctxt
@@ -25,3 +25,4 @@ hs_err_pid*
 .DS_Store
 *.pdf
 *.ppt
+*.mp4
