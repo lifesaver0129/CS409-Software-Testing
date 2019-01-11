@@ -1,0 +1,269 @@
+  bash arg: -p
+  bash arg: org.horaapps.leafpic.debug
+  bash arg: -v
+  bash arg: 1000
+  bash arg: -s
+  bash arg: 923
+  bash arg: --throttle
+  bash arg: 2
+:Monkey: seed=1543578776709 count=1000
+:AllowPackage: org.horaapps.leafpic.debug
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen } in package org.horaapps.leafpic.debug
+:Sending Touch (ACTION_DOWN): 0:(636.0,2056.0)
+:Sending Touch (ACTION_UP): 0:(637.46875,2186.209)
+:Sending Touch (ACTION_DOWN): 0:(1242.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(1262.0491,1066.1464)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(947.0,1871.0)
+:Sending Touch (ACTION_UP): 0:(936.3599,1877.0718)
+:Sending Touch (ACTION_DOWN): 0:(815.0,502.0)
+:Sending Touch (ACTION_UP): 0:(821.2886,506.10144)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen } in package org.horaapps.leafpic.debug
+:Sending Touch (ACTION_DOWN): 0:(864.0,2046.0)
+:Sending Touch (ACTION_UP): 0:(776.556,2118.4998)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(679.0,2501.0)
+:Sending Touch (ACTION_UP): 0:(672.78906,2472.9092)
+:Sending Touch (ACTION_DOWN): 0:(1245.0,90.0)
+:Sending Touch (ACTION_UP): 0:(1228.5042,73.947105)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+    //[calendar_time:2018-11-27 17:58:26.118  system_uptime:41291621]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,2264.0)
+:Sending Touch (ACTION_UP): 0:(1052.6427,2289.6094)
+:Sending Touch (ACTION_DOWN): 0:(295.0,974.0)
+:Sending Touch (ACTION_UP): 0:(316.24286,980.33826)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,1048.0)
+:Sending Touch (ACTION_UP): 0:(1065.6587,1040.7217)
+:Sending Touch (ACTION_DOWN): 0:(241.0,1240.0)
+:Sending Touch (ACTION_UP): 0:(315.64044,1250.9586)
+:Sending Touch (ACTION_DOWN): 0:(1216.0,50.0)
+:Sending Touch (ACTION_UP): 0:(1212.111,59.584618)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(532.0,1066.0)
+:Sending Touch (ACTION_UP): 0:(491.1604,1078.9404)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen } in package org.horaapps.leafpic.debug
+:Sending Touch (ACTION_DOWN): 0:(766.0,171.0)
+:Sending Touch (ACTION_UP): 0:(745.83295,201.0764)
+:Sending Touch (ACTION_DOWN): 0:(786.0,60.0)
+:Sending Touch (ACTION_UP): 0:(773.57434,65.798775)
+:Sending Touch (ACTION_DOWN): 0:(1208.0,2548.0)
+:Sending Touch (ACTION_UP): 0:(1218.416,2525.5862)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1239.0,853.0)
+    //[calendar_time:2018-11-27 17:58:26.997  system_uptime:41292500]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(1258.4501,893.1992)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    // Rejecting start of Intent { cmp=com.google.android.setupwizard/.deferred.DeferredSnoozeDialogActivity } in package com.google.android.setupwizard
+:Sending Touch (ACTION_DOWN): 0:(375.0,2638.0)
+:Sending Touch (ACTION_UP): 0:(409.87943,2636.1)
+:Sending Touch (ACTION_DOWN): 0:(264.0,1949.0)
+:Sending Touch (ACTION_UP): 0:(250.1203,1950.7648)
+:Sending Touch (ACTION_DOWN): 0:(100.0,485.0)
+:Sending Touch (ACTION_UP): 0:(104.11932,479.4904)
+:Sending Touch (ACTION_DOWN): 0:(537.0,441.0)
+:Sending Touch (ACTION_UP): 0:(545.53955,440.36902)
+    // Allowing start of Intent { cmp=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SettingsActivity } in package org.horaapps.leafpic.debug
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    // Rejecting start of Intent { cmp=com.google.android.setupwizard/.deferred.DeferredTrampolineActivity } in package com.google.android.setupwizard
+:Sending Touch (ACTION_DOWN): 0:(893.0,1281.0)
+:Sending Touch (ACTION_UP): 0:(891.50397,1283.0872)
+:Sending Touch (ACTION_DOWN): 0:(654.0,1674.0)
+:Sending Touch (ACTION_UP): 0:(653.1834,1678.5292)
+:Sending Touch (ACTION_DOWN): 0:(1404.0,1587.0)
+:Sending Touch (ACTION_UP): 0:(1390.4877,1596.4476)
+:Sending Touch (ACTION_DOWN): 0:(93.0,1729.0)
+:Sending Touch (ACTION_UP): 0:(68.22208,1691.4879)
+:Sending Touch (ACTION_DOWN): 0:(328.0,427.0)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_ALARMS cmp=com.google.android.deskclock/com.android.deskclock.HandleApiCalls } in package com.google.android.deskclock
+:Sending Touch (ACTION_UP): 0:(336.0391,557.0086)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_ALARMS cmp=com.google.android.deskclock/com.android.deskclock.HandleApiCalls } in package com.google.android.deskclock
+    // Rejecting start of Intent { act=android.intent.action.SHOW_ALARMS cmp=com.google.android.deskclock/com.android.deskclock.HandleApiCalls } in package com.google.android.deskclock
+:Sending Touch (ACTION_DOWN): 0:(190.0,1083.0)
+    //[calendar_time:2018-11-27 17:58:27.991  system_uptime:41293493]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(250.03792,1089.2716)
+:Sending Touch (ACTION_DOWN): 0:(913.0,306.0)
+:Sending Touch (ACTION_UP): 0:(904.0073,307.6873)
+:Sending Touch (ACTION_DOWN): 0:(1345.0,665.0)
+:Sending Touch (ACTION_UP): 0:(1326.5522,657.4838)
+:Sending Touch (ACTION_DOWN): 0:(1306.0,2296.0)
+:Sending Touch (ACTION_UP): 0:(1300.4094,2278.2908)
+:Sending Touch (ACTION_DOWN): 0:(104.0,1444.0)
+:Sending Touch (ACTION_UP): 0:(181.05283,1467.0392)
+    // Rejecting start of Intent { cmp=com.google.android.setupwizard/.deferred.DeferredTrampolineActivity } in package com.google.android.setupwizard
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(43.0,1241.0)
+:Sending Touch (ACTION_UP): 0:(69.16844,1170.5717)
+:Sending Touch (ACTION_DOWN): 0:(821.0,653.0)
+:Sending Touch (ACTION_UP): 0:(827.5871,525.5463)
+:Sending Touch (ACTION_DOWN): 0:(726.0,2007.0)
+:Sending Touch (ACTION_UP): 0:(730.162,2010.3561)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2018-11-27 17:58:28.865  system_uptime:41294367]
+    // Sending event #400
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen } in package org.horaapps.leafpic.debug
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(633.0,2362.0)
+:Sending Touch (ACTION_UP): 0:(633.83875,2356.4062)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1043.0,29.0)
+:Sending Touch (ACTION_UP): 0:(1043.2803,30.113354)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(218.0,779.0)
+:Sending Touch (ACTION_UP): 0:(213.65482,735.0176)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+    // activityResuming(org.horaapps.leafpic.debug)
+:Sending Touch (ACTION_DOWN): 0:(550.0,2573.0)
+:Sending Touch (ACTION_UP): 0:(554.3284,2548.0486)
+:Sending Touch (ACTION_DOWN): 0:(95.0,851.0)
+:Sending Touch (ACTION_UP): 0:(109.765724,845.3011)
+:Sending Touch (ACTION_DOWN): 0:(727.0,685.0)
+:Sending Touch (ACTION_UP): 0:(728.4179,686.37585)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    //[calendar_time:2018-11-27 17:58:29.822  system_uptime:41295324]
+    // Sending event #500
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1222.0,2023.0)
+:Sending Touch (ACTION_UP): 0:(1220.1038,2033.244)
+:Sending Touch (ACTION_DOWN): 0:(677.0,1999.0)
+:Sending Touch (ACTION_UP): 0:(673.906,1999.0887)
+:Sending Touch (ACTION_DOWN): 0:(1011.0,1406.0)
+:Sending Touch (ACTION_UP): 0:(1021.7248,1411.2362)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,217.0)
+:Sending Touch (ACTION_UP): 0:(1013.5803,234.14996)
+:Sending Touch (ACTION_DOWN): 0:(1086.0,289.0)
+:Sending Touch (ACTION_UP): 0:(1084.5438,305.93338)
+:Sending Touch (ACTION_DOWN): 0:(789.0,2701.0)
+:Sending Touch (ACTION_UP): 0:(794.28094,2700.7146)
+:Sending Touch (ACTION_DOWN): 0:(978.0,1451.0)
+:Sending Touch (ACTION_UP): 0:(965.89056,1439.933)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(382.0,291.0)
+:Sending Touch (ACTION_UP): 0:(380.473,302.92896)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1243.0,747.0)
+:Sending Touch (ACTION_UP): 0:(1263.9237,748.1352)
+:Sending Touch (ACTION_DOWN): 0:(321.0,964.0)
+    //[calendar_time:2018-11-27 17:58:31.037  system_uptime:41296539]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(336.85938,963.938)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(500.0,2442.0)
+:Sending Touch (ACTION_UP): 0:(488.13287,2450.9243)
+:Sending Touch (ACTION_DOWN): 0:(612.0,379.0)
+:Sending Touch (ACTION_UP): 0:(610.9823,388.82925)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen } in package org.horaapps.leafpic.debug
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1007.0,1961.0)
+:Sending Touch (ACTION_UP): 0:(1049.0367,1851.8647)
+:Sending Touch (ACTION_DOWN): 0:(1249.0,661.0)
+:Sending Touch (ACTION_UP): 0:(1248.1466,693.0304)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    // activityResuming(com.jakewharton.telecine.debug)
+    // Rejecting resume of package com.jakewharton.telecine.debug
+:Sending Touch (ACTION_DOWN): 0:(1092.0,1664.0)
+:Sending Touch (ACTION_UP): 0:(1037.0328,1735.1747)
+:Sending Touch (ACTION_DOWN): 0:(652.0,410.0)
+:Sending Touch (ACTION_UP): 0:(649.563,404.92178)
+:Sending Touch (ACTION_DOWN): 0:(740.0,814.0)
+:Sending Touch (ACTION_UP): 0:(753.37976,816.5036)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(484.0,1341.0)
+    //[calendar_time:2018-11-27 17:58:32.024  system_uptime:41297526]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(487.67218,1358.7656)
+:Sending Touch (ACTION_DOWN): 0:(4.0,314.0)
+:Sending Touch (ACTION_UP): 0:(0.0,352.965)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(416.0,693.0)
+:Sending Touch (ACTION_UP): 0:(413.46832,693.6112)
+:Sending Touch (ACTION_DOWN): 0:(1261.0,1430.0)
+:Sending Touch (ACTION_UP): 0:(1247.9957,1446.1719)
+:Sending Touch (ACTION_DOWN): 0:(442.0,2603.0)
+:Sending Touch (ACTION_UP): 0:(437.71628,2617.2258)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(28.0,1788.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1766.9303)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen } in package org.horaapps.leafpic.debug
+:Sending Touch (ACTION_DOWN): 0:(1150.0,131.0)
+    //[calendar_time:2018-11-27 17:58:33.678  system_uptime:41299181]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(1211.894,159.4008)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(357.0,2444.0)
+:Sending Touch (ACTION_UP): 0:(358.16882,2444.3303)
+:Sending Touch (ACTION_DOWN): 0:(443.0,681.0)
+:Sending Touch (ACTION_UP): 0:(436.08203,677.4702)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(914.0,1184.0)
+:Sending Touch (ACTION_UP): 0:(913.5731,1183.1825)
+:Sending Touch (ACTION_DOWN): 0:(980.0,1784.0)
+:Sending Touch (ACTION_UP): 0:(1032.0358,1775.9441)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1226.0,1878.0)
+:Sending Touch (ACTION_UP): 0:(1227.163,1884.627)
+:Sending Touch (ACTION_DOWN): 0:(1231.0,1238.0)
+:Sending Touch (ACTION_UP): 0:(1167.6635,1230.8335)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2018-11-27 17:58:36.110  system_uptime:41301613]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(142.0,2021.0)
+:Sending Touch (ACTION_UP): 0:(141.46027,2035.899)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1009.0,709.0)
+:Sending Touch (ACTION_UP): 0:(1016.23315,703.8771)
+:Sending Touch (ACTION_DOWN): 0:(508.0,1332.0)
+:Sending Touch (ACTION_UP): 0:(509.336,1208.113)
+:Sending Touch (ACTION_DOWN): 0:(735.0,2239.0)
+:Sending Touch (ACTION_UP): 0:(737.1831,2242.3462)
+:Sending Touch (ACTION_DOWN): 0:(1439.0,1118.0)
+:Sending Touch (ACTION_UP): 0:(1375.9751,1120.5927)
+:Sending Touch (ACTION_DOWN): 0:(1174.0,657.0)
+:Sending Touch (ACTION_UP): 0:(1175.678,645.33765)
+:Sending Touch (ACTION_DOWN): 0:(606.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(645.34076,1483.8907)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.horaapps.leafpic.debug/org.horaapps.leafpic.activities.SplashScreen } in package org.horaapps.leafpic.debug
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=1 pointers=1 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=12194ms (0ms mobile, 0ms wifi, 12194ms not connected)
+// Monkey finished
